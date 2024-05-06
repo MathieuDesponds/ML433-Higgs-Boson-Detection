@@ -1,0 +1,7 @@
+
+sample-submission.csv
+test.csv
+train.csv
+*.xml
+.idea/ml-project-1-merle.iml
+.ipynb_checkpoints/ExploratoryDataAnalysis-checkpoint.ipynb
